@@ -1,4 +1,4 @@
-<img width="1440" alt="0-1" src="https://github.com/just-midemichael/3D_MAZE_GAME/assets/102820626/5436a946-0d2f-4f5e-a58e-daeb5d4fe0c3"># 3D_MAZE_GAME
+# 3D_MAZE_GAME
 This is a 3d maze game built with c++  as a mandatory foundation project for alx_se program
 
 ![mazeworkflow drawio](https://github.com/just-midemichael/3D_MAZE_GAME/assets/102820626/60bf743b-392b-42dd-ad62-4b81f44a969c)
@@ -8,7 +8,6 @@ The goal of this project is to create a game in 3D using raycasting !
 You don’t have to do the tasks in order, except for the first one (obviously), or if a task depends on a previous one
 You have a link to a very good and very long tutorial about raycasting in the Tips and links section below, so read it very carefully, and practice !
 Please have a lot of fun doing this project !
-![maze_project](https://github.com/just-midemichael/3D_MAZE_GAME/assets/102820626/e61dab7b-cbe3-402a-8de9-8f972485a6f9)
 
 Requirements
 General

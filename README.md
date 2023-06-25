@@ -38,14 +38,15 @@ Please have a lot of fun doing this project !
 
 # Tasks
 
-# 0. Walls !
+0. Walls !
 In this first part, you’ll have to:
 
 Create a window with SDL2
-# Use raycasting to draw walls on your window !
-# You don’t need to be able to rotate the camera during the execution in this part, but you must provide a way to change the angle of the camera in your code to see if it works after recompiling it
-# The color of the walls must be different from the color of the ground/ceil
-# The map doesn’t need to be parsed from a file, but you must provide a way to modify it in your code to see if it works after recompiling it. (e.g. using an array of arrays of integers or characters).
+Use raycasting to draw walls on your window !
+
+You don’t need to be able to rotate the camera during the execution in this part, but you must provide a way to change the angle of the camera in your code to see if it works after recompiling it
+The color of the walls must be different from the color of the ground/ceil
+The map doesn’t need to be parsed from a file, but you must provide a way to modify it in your code to see if it works after recompiling it. (e.g. using an array of arrays of integers or characters).
 Example:
 <img width="1440" alt="0-1" src="https://github.com/just-midemichael/3D_MAZE_GAME/assets/102820626/fe84f6d9-313f-4f0d-b09f-36c67aa4ef8d">
 

@@ -9,6 +9,7 @@ You don’t have to do the tasks in order, except for the first one (obviously),
 You have a link to a very good and very long tutorial about raycasting in the Tips and links section below, so read it very carefully, and practice !
 Please have a lot of fun doing this project !
 
+
 # Requirements
 # General
 # All your files will be compiled on Ubuntu 14.04 LTS, using gcc (Ubuntu 4.8.4-2ubuntu1~14.04) 4.8.4
@@ -144,7 +145,7 @@ Example
 Add some enemies !
 Example from the game Wolfenstein 3D:
 
-Author: Olumide Micheal Ojo AKA just_midemichael;
+
 ![12-maze](https://github.com/just-midemichael/3D_MAZE_GAME/assets/102820626/9d4d84f0-9ed8-4f24-8017-811f5f8b0f7e)
 
 14. Make it rain
@@ -152,3 +153,5 @@ Add rain and a possibility to stop / start the rain with a key.
 
 15. Extra option
 Shadows, special lightning, etc… get creative!
+
+# Author: Olumide Micheal Ojo AKA just_midemichael;
